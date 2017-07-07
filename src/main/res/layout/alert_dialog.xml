@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/dialog_inset"
+    android:padding="5dp"
+    android:layout_margin="20dp">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/transaver_logo"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/logo_image" />
+
+    <TextView
+        android:id="@+id/alert_text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:text="@string/hey_there"
+        android:textColor="#2B445D"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"/>
+
+    <TextView
+        android:id="@+id/dialog_text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/alert_dialog"
+        android:layout_below="@+id/alert_text1"
+        android:textSize="15sp"
+        android:textColor="#757575"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"/>
+
+    <Button
+        android:id="@+id/start_now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_now"
+        android:textColor="@color/button_text_color"
+        android:background="@drawable/button_design"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/dialog_text2"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="10dp"
+        android:paddingRight="30dp"
+        android:paddingLeft="30dp"
+        android:layout_marginTop="5dp"
+        android:onClick="startNow"/>
+
+</RelativeLayout>

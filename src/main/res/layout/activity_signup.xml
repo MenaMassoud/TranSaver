@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+   >
+    <LinearLayout
+        android:id="@+id/activity_sign_up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context="com.example.hp.TranSaver.Signup">
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:src="@drawable/transaver_logo"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:contentDescription="@string/logo_image" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_weight="0.5"
+            android:layout_marginTop="25dp"
+            android:layout_marginBottom="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tran"
+                android:textColor="#EF4B23"
+                android:textSize="30sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/saver"
+                android:textColor="#9E9E9E"
+                android:textSize="30sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            >
+
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/user_name2"
+                    android:hint="@string/user_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:textSize="@dimen/textSize"
+                    android:drawablePadding="7dp"
+                    android:drawableStart="@drawable/name"
+                    android:maxLength="20"
+                    android:inputType="textPersonName"
+                    android:maxLines="1"/>
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/email2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:textSize="@dimen/textSize"
+                    android:hint="@string/email_sign"
+                    android:maxLines="1"
+                    android:drawableStart="@drawable/email"
+                    android:drawablePadding="7dp"
+                    android:maxLength="50"
+                    android:inputType="textEmailAddress" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:passwordToggleEnabled="true">
+                <EditText
+                    android:id="@+id/password2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="25dp"
+                    android:textSize="@dimen/textSize"
+                    android:maxLines="1"
+                    android:drawablePadding="7dp"
+                    android:drawableStart="@drawable/key"
+                    android:maxLength="20"
+                    android:hint="@string/password_hint"
+                    android:inputType="textPassword" />
+            </android.support.design.widget.TextInputLayout>
+        </LinearLayout>
+        <Button
+            android:text="@string/sign_up_button_title"
+            android:id="@+id/button_sign_Up"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_design"
+            android:textSize="@dimen/textSize"
+            android:textColor="@color/button_text_color"
+android:elevation="@dimen/elevation_button"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/error_txt_signup"
+            android:textColor="#e10a0a"
+            android:textSize="18dp"
+            android:layout_gravity="center"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="@string/already_member"
+                android:textSize="@dimen/min_font_size"
+                android:id="@+id/text_1"
+                android:textColor="@color/redirect_text_color"/>
+
+            <TextView
+                android:id="@+id/link_login"
+                android:layout_toEndOf="@id/text_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="18dp"
+                android:text="@string/log_in"
+                android:textSize="@dimen/min_font_size"
+                android:textColor="@color/redirect_text_color"
+                android:onClick="login_link"/>
+        </RelativeLayout>
+
+
+    </LinearLayout>
+</ScrollView>

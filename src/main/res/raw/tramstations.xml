@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+    <Document>
+        <name>Untitled layer</name>
+        <Style id="icon">
+            <IconStyle>
+                <Icon>
+                    <href>http://maps.google.com/mapfiles/kml/pal5/icon26.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark>
+            <name>Sidi Gaber EL shiekh Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.941855,31.223496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cleopatra El soghra Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.936038,31.22019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sporting EL soghra Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.93036,31.216935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>EL Ibrahimeya Tram station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.926428,31.214649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>El Raml Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.901055,31.201532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>University Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.920291,31.211058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cleopatra Hamamat Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.937964,31.221332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>El shatby Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.917056,31.20928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Camp Shezar (EL Moaskar) Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.923333,31.212804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sporting El-kobra Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.932821,31.218318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shaheed Mostafa Xian (colleges theoretical compound)Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.909876,31.205713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Young Muslims Tram Station </name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.91343,31.207486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Masjed AL Qaed Ibrahim Tram Station </name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.903294,31.202767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hassan Rasim Station (College of Dentistry) Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.906631,31.204185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mustafa Kamel Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.945234,31.224303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mohamed Mahfouz Tram station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.948303,31.226745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Roshdy Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.951249,31.228706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>El-Hedaya Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.955609,31.232948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Saba Basha Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.95694,31.236142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Gileem Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.960248,31.239566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Faculty of Fine Arts Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.961624,31.240381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Safa Palace Station (Zezenia)Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.965159,31.242404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>San Stefano Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.96804,31.245129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Tharwat Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.968934,31.247256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Laurent Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.971547,31.249425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Saraya Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.974107,31.251533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sidi Beshr Tram  Station?</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.976367,31.252539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>EL Soyouf Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.978719,31.25193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Victory Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.979685,31.249056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>EL Wezara Tram Station?</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.956595,31.231995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Fleming Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.960456,31.233681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Backous Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.965057,31.234813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Safar Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.968667,31.235683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Shots Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.971256,31.239895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ganeclies Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.969384,31.2429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cleopatra Zananiri Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.938509,31.21841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Sidi Gaber EL Mahata Tram Station</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.942476,31.22035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Boulkly (Isis)Tram Sation</name>
+            <styleUrl>#icon</styleUrl>
+            <Point>
+                <coordinates>29.954728,31.231059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <styleUrl>#line-1A237E-1-nodesc</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <coordinates>29.9796671,31.2490619,0.0 29.9797529,31.2492912,0.0 29.9798065,31.2494999,0.0 29.9798307,31.249876,0.0 29.9798039,31.2502383,0.0 29.9796966,31.2506556,0.0 29.9795517,31.2510019,0.0 29.9793988,31.251261,0.0 29.9792004,31.251504,0.0 29.979085,31.2516187,0.0 29.9787873,31.2518594,0.0 29.9785861,31.2519993,0.0 29.9782026,31.2521782,0.0 29.9780604,31.2522401,0.0 29.9775723,31.2523845,0.0 29.9771431,31.2524671,0.0 29.9768132,31.2525129,0.0 29.9765879,31.2525221,0.0 29.9763492,31.2525267,0.0 29.9760354,31.2524648,0.0 29.9756196,31.2523433,0.0 29.9753031,31.2522286,0.0 29.9749383,31.2520658,0.0 29.9746621,31.2518961,0.0 29.9740559,31.251449,0.0 29.9734873,31.2510179,0.0 29.9725163,31.2502543,0.0 29.971599,31.2494609,0.0 29.971371,31.2492683,0.0 29.9708077,31.2488189,0.0 29.9701613,31.2483236,0.0 29.9697831,31.2480094,0.0 29.9692708,31.247576,0.0 29.9689651,31.2472343,0.0 29.9686486,31.2468147,0.0 29.9684796,31.2465464,0.0 29.9682167,31.2459089,0.0 29.9681765,31.245354,0.0 29.9682462,31.2448839,0.0 29.9683937,31.244455,0.0 29.9686271,31.2440124,0.0 29.9688148,31.2436822,0.0 29.969384,31.2429,0.0 29.9706146,31.2412101,0.0 29.9709392,31.2407217,0.0 29.9710947,31.2404396,0.0 29.9712047,31.2400772,0.0 29.9712288,31.2396415,0.0 29.9711671,31.2392723,0.0 29.9710009,31.2388595,0.0 29.9705046,31.2382426,0.0 29.9694237,31.2364331,0.0 29.9690938,31.2360937,0.0 29.9688739,31.2358185,0.0 29.9683776,31.2354561,0.0 29.9680772,31.2352841,0.0 29.9674067,31.2350181,0.0 29.9669909,31.2349149,0.0 29.9658698,31.2348277,0.0 29.9652904,31.2347979,0.0 29.9648988,31.2347383,0.0 29.9637803,31.234486,0.0 29.962061,31.2340824,0.0 29.9606931,31.2336948,0.0 29.9598992,31.2334035,0.0 29.9586198,31.2329127,0.0 29.9581316,31.2326696,0.0 29.9575496,31.2324173,0.0 29.9568897,31.2321008,0.0 29.9560019,31.2316307,0.0 29.9548915,31.2309954,0.0 29.9542344,31.2306123,0.0 29.9537811,31.2302958,0.0 29.9523515,31.2293922,0.0 29.9512786,31.2287087,0.0 29.9507153,31.2283463,0.0 29.9498945,31.2278004,0.0 29.9487251,31.2270183,0.0 29.9475637,31.2262477,0.0 29.9469227,31.2258096,0.0 29.9460509,31.2250435,0.0 29.9456486,31.2245871,0.0 29.9454179,31.224438,0.0 29.9434546,31.2236948,0.0 29.9427196,31.2234288,0.0 29.9424595,31.2233944,0.0 29.94221,31.2234173,0.0 29.9419874,31.2234586,0.0 29.9417648,31.2234655,0.0 29.9416307,31.2234242,0.0 29.9413946,31.2233324,0.0 29.9408904,31.2230457,0.0 29.93945,31.2221787,0.0 29.9379855,31.2213277,0.0 29.9368858,31.22069,0.0 29.9357218,31.2200088,0.0 29.9339139,31.2189582,0.0 29.9323234,31.2180636,0.0 29.9321383,31.2179925,0.0 29.9310493,31.2173503,0.0 29.9297807,31.2166185,0.0 29.9283028,31.2157652,0.0 29.9260631,31.2144623,0.0 29.9235258,31.212962,0.0 29.921388,31.2117095,0.0 29.9192128,31.2104891,0.0 29.9178797,31.2097619,0.0 29.9170214,31.2093008,0.0 29.9158117,31.2086975,0.0 29.9141085,31.2078303,0.0 29.9132153,31.207383,0.0 29.911657,31.206603,0.0 29.9098948,31.2057129,0.0 29.9090821,31.205332,0.0 29.9070919,31.2043983,0.0 29.9063542,31.2040496,0.0 29.9045089,31.2032398,0.0 29.9037203,31.2028635,0.0 29.9031168,31.2026043,0.0 29.9025133,31.2023909,0.0 29.9022022,31.202212,0.0 29.9011508,31.2014319,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <styleUrl>#line-FFD600-1-nodesc</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <coordinates>29.9418345,31.2235113,0.0 29.9416333,31.2234884,0.0 29.9413088,31.2233462,0.0 29.9405149,31.2229012,0.0 29.939509,31.2222888,0.0 29.9385595,31.2217176,0.0 29.9372506,31.2209584,0.0 29.9366203,31.2206029,0.0 29.935416,31.2198918,0.0 29.9343297,31.2192587,0.0 29.9330288,31.2185132,0.0 29.9320605,31.2179627,0.0 29.9302715,31.2169144,0.0 29.9293944,31.2164121,0.0 29.9282223,31.2157331,0.0 29.9271226,31.2150931,0.0 29.9262053,31.2145609,0.0 29.924655,31.2136433,0.0 29.9232951,31.2128405,0.0 29.9218011,31.2119642,0.0 29.9209401,31.211471,0.0 29.9196231,31.2107323,0.0 29.9178529,31.2097642,0.0 29.9170241,31.2093192,0.0 29.9154872,31.2085484,0.0 29.9144223,31.2080047,0.0 29.9134594,31.2075229,0.0 29.9124616,31.2070205,0.0 29.9112278,31.2064011,0.0 29.9099296,31.2057473,0.0 29.9080038,31.2048411,0.0 29.90666,31.2042125,0.0 29.9061584,31.2039762,0.0 29.9050641,31.2035013,0.0 29.9043775,31.2031939,0.0 29.9037176,31.2028796,0.0 29.90309,31.2026112,0.0 29.9024758,31.2023932,0.0 29.902178,31.2022143,0.0 29.9011266,31.2014411,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <styleUrl>#line-FF5252-1-nodesc</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <coordinates>29.9797529,31.2490482,0.0 29.9798763,31.2494242,0.0 29.9799085,31.2497499,0.0 29.9798602,31.2502681,0.0 29.9797636,31.2505983,0.0 29.9796027,31.2509973,0.0 29.9794042,31.2513183,0.0 29.9791145,31.2516622,0.0 29.9786478,31.2520016,0.0 29.9782079,31.2522172,0.0 29.9778861,31.252341,0.0 29.9774086,31.2524602,0.0 29.976899,31.2525428,0.0 29.9765396,31.2525703,0.0 29.976207,31.2525428,0.0 29.9757457,31.2524327,0.0 29.9754345,31.2523364,0.0 29.9748605,31.2520842,0.0 29.9738735,31.2513687,0.0 29.9729025,31.2506212,0.0 29.9724412,31.2502543,0.0 29.9718404,31.2497223,0.0 29.9713469,31.2493096,0.0 29.9706119,31.248718,0.0 29.9696732,31.2479888,0.0 29.969185,31.2475714,0.0 29.9687612,31.2471036,0.0 29.9684179,31.2465533,0.0 29.9680853,31.2456498,0.0 29.9677688,31.2448976,0.0 29.9672645,31.2440904,0.0 29.9662614,31.2431823,0.0 29.9650973,31.2424347,0.0 29.9634773,31.2415037,0.0 29.9621522,31.2407515,0.0 29.9610633,31.2401369,0.0 29.9602747,31.2396232,0.0 29.959926,31.2393892,0.0 29.9594432,31.2389306,0.0 29.9590623,31.2383848,0.0 29.9585527,31.2377977,0.0 29.9582469,31.2374353,0.0 29.9574798,31.2366785,0.0 29.9569863,31.2360639,0.0 29.9565786,31.2355777,0.0 29.9564016,31.2353483,0.0 29.9560261,31.2346741,0.0 29.9558759,31.2342383,0.0 29.9557525,31.2333485,0.0 29.9556935,31.2329265,0.0 29.9555379,31.2323944,0.0 29.9551088,31.2317063,0.0 29.9548781,31.2314311,0.0 29.9543685,31.2307568,0.0 29.9535745,31.2302018,0.0 29.9524426,31.2294908,0.0 29.9510586,31.2286009,0.0 29.950211,31.2280413,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <styleUrl>#line-FF5252-1-nodesc</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <coordinates>29.950211,31.2280413,0.0 29.9492991,31.2274243,0.0 29.9482101,31.2266949,0.0 29.9473491,31.2261192,0.0 29.9469012,31.2258142,0.0 29.9465606,31.2255137,0.0 29.9460241,31.2250412,0.0 29.9454448,31.2243829,0.0 29.9450424,31.223821,0.0 29.9444523,31.2228095,0.0 29.9438676,31.2218048,0.0 29.9436986,31.2215594,0.0 29.9434438,31.2212199,0.0 29.9429262,31.2207061,0.0 29.9425614,31.2203987,0.0 29.9422878,31.2202083,0.0 29.9419445,31.2200134,0.0 29.9403727,31.2191257,0.0 29.940016,31.2189445,0.0 29.9394715,31.2187174,0.0 29.9388465,31.2185316,0.0 29.9383503,31.2184261,0.0 29.9378192,31.218355,0.0 29.9372023,31.2183366,0.0 29.9365184,31.2183779,0.0 29.9358398,31.2184375,0.0 29.9347857,31.2185178,0.0 29.9343592,31.2185408,0.0 29.9340159,31.2185293,0.0 29.9337584,31.2185018,0.0 29.9332273,31.2183848,0.0 29.9328545,31.2182563,0.0 29.9324092,31.218082,0.0 29.9321544,31.2179788,0.0 29.9302581,31.2168754,0.0 29.9293622,31.2163593,0.0 29.9276295,31.2153546,0.0 29.926208,31.2145265,0.0 29.924325,31.2134162,0.0 29.9231958,31.2127487,0.0 29.9223134,31.2122348,0.0 29.9203259,31.2110833,0.0 29.9186951,31.2101794,0.0 29.917118,31.2093306,0.0 29.9153557,31.2084497,0.0 29.9135774,31.2075459,0.0 29.9122953,31.2069058,0.0 29.911091,31.2063002,0.0 29.9097687,31.2056372,0.0 29.9086154,31.2050957,0.0 29.907513,31.2045819,0.0 29.9064294,31.204068,0.0 29.9060217,31.2038844,0.0 29.905681,31.2037353,0.0 29.9044365,31.2031847,0.0 29.9032107,31.2026089,0.0 29.903031,31.2025561,0.0 29.9025241,31.2023749,0.0 29.9022183,31.2021982,0.0 29.9011615,31.2014113,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark>
+            <name></name>
+            <styleUrl>#line-097138-1-nodesc</styleUrl>
+            <LineString>
+                <tessellate>1</tessellate>
+                <coordinates>29.9682462,31.2451751,0.0 29.9682891,31.2448953,0.0 29.9684367,31.2444665,0.0 29.9688444,31.2436891,0.0 29.9694988,31.2427948,0.0 29.9703759,31.241577,0.0 29.9706736,31.241162,0.0 29.9709713,31.2407148,0.0 29.9711189,31.2404465,0.0 29.9712315,31.2400749,0.0 29.9712503,31.23963,0.0 29.9711913,31.2392608,0.0 29.971033,31.2388595,0.0 29.9705234,31.2382334,0.0 29.9697563,31.2369445,0.0 29.9694452,31.2364217,0.0 29.9687156,31.2357566,0.0 29.9684635,31.2355639,0.0 29.968096,31.2353598,0.0 29.9677956,31.2352314,0.0 29.9673691,31.2350525,0.0 29.9669588,31.2349562,0.0 29.9649954,31.2348048,0.0 29.9635631,31.2344906,0.0 29.9618974,31.2340916,0.0 29.9609104,31.2338163,0.0 29.9602935,31.2336122,0.0 29.9595103,31.2333026,0.0 29.9590623,31.233126,0.0 29.9588102,31.2330297,0.0 29.9573833,31.2323829,0.0 29.9567074,31.2320664,0.0 29.9563318,31.2318669,0.0 29.9551946,31.2312178,0.0 29.9543685,31.2307568,0.0 29.9539635,31.2303922,0.0 29.9532071,31.2299128,0.0 29.9527645,31.229633,0.0 29.9516541,31.2289243,0.0 29.9507153,31.2283257,0.0 29.9500152,31.2278578,0.0 29.9494198,31.2274564,0.0 29.9482048,31.2266491,0.0 29.9471024,31.2259105,0.0 29.9469334,31.2257958,0.0 29.9462521,31.2251949,0.0 29.946067,31.2250297,0.0 29.9456137,31.2245205,0.0 29.9454877,31.2243852,0.0 29.9452409,31.2240481,0.0 29.945021,31.2237292,0.0 29.9446025,31.2229861,0.0 29.9443719,31.2225984,0.0 29.9439991,31.2219424,0.0 29.9435645,31.2213116,0.0 29.9430817,31.2207818,0.0 29.9425909,31.2203597,0.0 29.9420786,31.2200271,0.0 29.9416092,31.2197725,0.0 29.9408233,31.2193229,0.0 29.9402359,31.2190018,0.0 29.9396163,31.2187311,0.0 29.9389726,31.218527,0.0 29.9384281,31.2183985,0.0 29.9378943,31.2183274,0.0 29.9375054,31.2182976,0.0 29.9370602,31.2182976,0.0 29.9365371,31.2183366,0.0 29.9348876,31.2184536,0.0 29.9345604,31.2184742,0.0 29.9341446,31.2184719,0.0 29.9335518,31.2184077,0.0 29.9331361,31.218316,0.0 29.9322027,31.2179765,0.0 29.9319988,31.2178641,0.0 29.9308938,31.2172195,0.0 29.9301884,31.2168135,0.0 29.9280694,31.2155863,0.0 29.9267551,31.2148201,0.0 29.92587,31.2142925,0.0 29.925414,31.2140172,0.0 29.9245477,31.2135103,0.0 29.9235097,31.2129024,0.0 29.9222115,31.2121454,0.0 29.9207041,31.211276,0.0 29.9200818,31.2109181,0.0 29.9186254,31.2101175,0.0 29.9182177,31.209895,0.0 29.9169973,31.2092435,0.0 29.9157473,31.2086149,0.0 29.9146369,31.208046,0.0 29.9133146,31.2073876,0.0 29.9117562,31.206603,0.0 29.9098653,31.205667,0.0 29.9082559,31.204903,0.0 29.9078429,31.2047126,0.0 29.9066949,31.2041712,0.0 29.9053404,31.2035632,0.0 29.9038142,31.2028704,0.0 29.9032322,31.2025951,0.0 29.9025375,31.2023565,0.0 29.9022236,31.202173,0.0 29.9011856,31.2013929,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Style id='icon-1718-0288D1-nodesc-normal'>
+            <IconStyle>
+                <color>ffD18802</color>
+                <scale>1.0</scale>
+                <Icon>
+                    <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>0.0</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='icon-1718-0288D1-nodesc-highlight'>
+            <IconStyle>
+                <color>ffD18802</color>
+                <scale>1.0</scale>
+                <Icon>
+                    <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>1.0</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='icon-1718-0288D1-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1718-0288D1-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#icon-1718-0288D1-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='icon-1718-880E4F-nodesc-normal'>
+            <IconStyle>
+                <color>ff4F0E88</color>
+                <scale>1.0</scale>
+                <Icon>
+                    <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>0.0</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='icon-1718-880E4F-nodesc-highlight'>
+            <IconStyle>
+                <color>ff4F0E88</color>
+                <scale>1.0</scale>
+                <Icon>
+                    <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>1.0</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='icon-1718-880E4F-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1718-880E4F-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#icon-1718-880E4F-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='icon-1718-FF5252-nodesc-normal'>
+            <IconStyle>
+                <color>ff5252FF</color>
+                <scale>1.0</scale>
+                <Icon>
+                    <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>0.0</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='icon-1718-FF5252-nodesc-highlight'>
+            <IconStyle>
+                <color>ff5252FF</color>
+                <scale>1.0</scale>
+                <Icon>
+                    <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                </Icon>
+            </IconStyle>
+            <LabelStyle>
+                <scale>1.0</scale>
+            </LabelStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='icon-1718-FF5252-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#icon-1718-FF5252-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#icon-1718-FF5252-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='line-097138-1-nodesc-normal'>
+            <LineStyle>
+                <color>ff387109</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='line-097138-1-nodesc-highlight'>
+            <LineStyle>
+                <color>ff387109</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='line-097138-1-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#line-097138-1-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#line-097138-1-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='line-1A237E-1-nodesc-normal'>
+            <LineStyle>
+                <color>ff7E231A</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='line-1A237E-1-nodesc-highlight'>
+            <LineStyle>
+                <color>ff7E231A</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='line-1A237E-1-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#line-1A237E-1-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#line-1A237E-1-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='line-FF5252-1-nodesc-normal'>
+            <LineStyle>
+                <color>ff5252FF</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='line-FF5252-1-nodesc-highlight'>
+            <LineStyle>
+                <color>ff5252FF</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='line-FF5252-1-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#line-FF5252-1-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#line-FF5252-1-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+        <Style id='line-FFD600-1-nodesc-normal'>
+            <LineStyle>
+                <color>ff00D6FF</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <Style id='line-FFD600-1-nodesc-highlight'>
+            <LineStyle>
+                <color>ff00D6FF</color>
+                <width>10.0</width>
+            </LineStyle>
+            <BalloonStyle>
+                <text><![CDATA[<h3>$[name]</h3>]]></text>
+            </BalloonStyle>
+        </Style>
+        <StyleMap id='line-FFD600-1-nodesc'>
+            <Pair>
+                <key>normal</key>
+                <styleUrl>#line-FFD600-1-nodesc-normal</styleUrl>
+            </Pair>
+            <Pair>
+                <key>highlight</key>
+                <styleUrl>#line-FFD600-1-nodesc-highlight</styleUrl>
+            </Pair>
+        </StyleMap>
+    </Document>
+</kml>

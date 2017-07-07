@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home"
+    android:background="#f2f2f2"
+android:layout_margin="5dp"
+    >
+
+    <ListView
+        android:id="@+id/listview_station"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="9dp"
+        android:groupIndicator="@null">
+    </ListView>
+
+</RelativeLayout>

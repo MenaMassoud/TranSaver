@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#2B445D</color>
+        <color name="colorPrimaryDark">#2B445D</color>
+        <color name="colorAccent">#2B445D</color>
+       <color name="button_color">#2B445D</color>
+       <color name="grey_700">#646464</color>
+        <color name="Tran_color">#EF4B23</color>
+    <color name="saver_color">#9E9E9E</color>
+<color name="button_text_color">#FFFFFF</color>
+<color name="redirect_text_color">#1A237E</color>
+    <color name="error_text_color">#e10a0a</color>
+
+</resources>

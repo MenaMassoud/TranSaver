@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TranSaver</string>
+    <string name="title_activity_login">Login</string>
+    <string name="login_button_title">Log in</string>
+    <string name="sign_up_button_title">Sign up</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="name_hint">User Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Home">Home</string>
+    <string name="request">request</string>
+    <string name="yellowtram">yellowtram</string>
+    <string name="greentram">greentram</string>
+    <string name="redtram">redtram</string>
+    <string name="bluetram">bluetram</string>
+    <string name="join">Join</string>
+    <string name="estimated_time">ESTIMATED TIME:</string>
+    <string name="_00_00">00:00</string>
+    <string name="_0_m_s">0 m/s</string>
+    <string name="email">Email</string>
+    <string name="tran">Tran</string>
+    <string name="saver">Saver</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="no_account_yet">No account yet?</string>
+    <string name="create_one">Create one</string>
+    <string name="email_sign">Email</string>
+    <string name="user_name">User name</string>
+    <string name="logo_image">logo-image</string>
+    <string name="already_member">Already a member?</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="now_you_can">now you can!</string>
+    <string name="reset">Reset</string>
+    <string name="hey_there">Hey there!</string>
+    <string name="alert_dialog">Now you can save your time. Just choose your destination, make a requesr, and enjoy your ride</string>
+    <string name="start_now">START NOW!</string>
+    <string name="tram_image_list">tram_image_list</string>
+    <string name="logout">Logout</string>
+
+</resources>

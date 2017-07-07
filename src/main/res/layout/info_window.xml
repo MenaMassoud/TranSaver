@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorPrimary">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="My Location"
+            android:textColor="@color/button_text_color"
+            android:textSize="@dimen/font_size"
+            android:id="@+id/myLocation"
+            android:gravity="center"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+        android:gravity="center"
+        android:background="@color/colorPrimary"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/layout1"
+            android:background="@color/colorPrimary"
+            android:padding="9dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/time_tv"
+                android:background="#FFF"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/min_font_size"
+                android:padding="3dp"
+                android:layout_marginBottom="3dp"
+
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/dist_tv"
+                android:background="#FFF"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/min_font_size"
+                android:padding="3dp"
+
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:padding="9dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/layout2"
+            android:background="@color/colorPrimary"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/TVal"
+                android:textSize="@dimen/min_font_size"
+                android:background="#FFF"
+                android:textColor="@color/colorPrimary"
+                android:padding="3dp"
+                android:layout_marginBottom="3dp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/DVal"
+                android:textSize="@dimen/min_font_size"
+                android:background="#FFF"
+                android:textColor="@color/colorPrimary"
+                android:padding="3dp"
+                />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

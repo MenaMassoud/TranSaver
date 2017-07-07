@@ -1,0 +1,37 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <fragment xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="560dp"
+            tools:context="com.example.abc.fride.MapsActivity" />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/time_layout"
+            android:layout_gravity="center|bottom"
+            >
+            <Button
+                android:id="@+id/buttonJoin"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginBottom="20dp"
+                android:background="@drawable/circle_button"
+                android:onClick="joinBtn"
+                android:text="@string/join"
+                android:textColor="#2B445D"
+                android:textSize="20sp"/>
+
+        </LinearLayout>
+    </FrameLayout>
+
+</ScrollView>

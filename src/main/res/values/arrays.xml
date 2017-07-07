@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stations">
+        <item>El Raml Tram Station</item>
+        <item>Masjed Al Qaed Ibrahim Tram Station</item>
+        <item>Hassan Rasim Station(College of Dentistry) Tram Station</item>
+        <item>Shaheed Mostafa Xian (collegos theoretical compound) Tram Station</item>
+        <item>Young Muslims Tram Station</item>
+        <item>El Shatby Tram Station</item>
+        <item>University Tram Station</item>
+        <item>Camp Shezar (El Moskar) Tram Station</item>
+        <item>El Ibrahimeya Tram Station</item>
+        <item>Sporting El Soghra Tram Station</item>
+        <item>Sporting El-Kobra Tram Station</item>
+        <item>Cleopatra El soghra Tram Station</item>
+        <item>Cleopatra Zananiri Tram Station</item>
+        <item>Cleopatra Hamamat Tram Station</item>
+        <item>Sidi Gaber El Mahata Tram Station</item>
+        <item>Sidi Gaber El shiekh Tram Station</item>
+        <item>Mustafa Kamel Tram Station</item>
+        <item>Mohamed Mahfouz Tram Station</item>
+        <item>Roshdy Tram Station</item>
+        <item>Boulkly (Isis) Tram Station</item>
+        <item>El Wezara Tram Station</item>
+        <item>El-Hedaya Tram Station</item>
+        <item>Fleming Tram Station</item>
+        <item>Saba Basha Tram Station</item>
+        <item>Backous Tram Station</item>
+        <item>Gileem Tram Station</item>
+        <item>Faculty of Fine Arts Tram Station</item>
+        <item>Safar Tram Station</item>
+        <item>Shots Tram Station</item>
+        <item>Safa Palace Station (Zezenia) Tram Station</item>
+        <item>Ganeclies Tram Station</item>
+        <item>San Stefano Tram Station</item>
+        <item>Tharwat Tram Station</item>
+        <item>Laurent Tram Station</item>
+        <item>Saraya Tram Station</item>
+        <item>Sidi Beshr Tram Station</item>
+        <item>El Soyouf Tram Station</item>
+        <item>Victory Tram Station</item>
+    </string-array>
+</resources>
