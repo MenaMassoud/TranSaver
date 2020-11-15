@@ -6,9 +6,9 @@
  
  Algorithms:
  
- User Tracking
- Join Checking
- Nearest Distance
+ 1- User Tracking.
+ 2- Join Checking.
+ 3- Nearest Distance.
  
  Achievements of the project
  1- User friendly design for the application that apply material design concepts.
